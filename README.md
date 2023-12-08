@@ -1,5 +1,4 @@
-# CODSOFT
-CODSOFT INTERNSHIP TASKS
+# CODSOFT INTERNSHIP TASKS
 # Codsoft Machine Learning Internship
 
 Welcome to the Codsoft Machine Learning Internship! In this program, you'll be working on three exciting tasks to develop and deploy machine learning models. This README file will guide you through the details of each task and provide instructions on how to proceed.
